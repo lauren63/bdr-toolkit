@@ -1,6 +1,6 @@
 # bdr-toolkit
 
-Template library for outbound and inbound touches. Swap in `{first_name}`, `{company}` and `{detail}` before sending. `{detail}` reads best as a verb phrase that finishes "you...", like "posted about moving off Snowflake."
+Template library for outbound and inbound touches. Swap in `{first_name}`, `{company}` and `{detail}` before sending. The last-attempt voicemail also uses `{phone}`. `{detail}` reads best as a verb phrase that finishes "you...", like "posted about moving off Snowflake."
 
 House rules for every template: warm, human, curious-first. Lowercase is fine. No bullet points, no em dashes, no exclamation points, under 80 words, and never a list of three.
 
