@@ -1,0 +1,1 @@
+hi {first_name}, floating this back up in case it got buried. i reached out because you {detail}, and i keep wondering how {company} handles that today. if the timing's wrong, tell me and i'll go quiet. if it's interesting, a one-word reply is plenty.

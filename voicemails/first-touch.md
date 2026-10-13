@@ -1,0 +1,1 @@
+hi {first_name}, it's lauren from motherduck. i'm calling because you {detail}, and i got curious how {company} is handling it. no need to call back. i'll send a short note so you can reply whenever it suits you. thanks.

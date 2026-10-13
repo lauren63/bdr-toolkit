@@ -1,0 +1,1 @@
+hey {first_name}, lauren at motherduck again. this is my last call for a while. i called because you {detail}, and i still think there's something there for {company}. if it's ever worth a chat, i'm at {phone}. otherwise, i hope the quarter treats you kindly.

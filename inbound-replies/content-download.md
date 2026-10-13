@@ -1,0 +1,1 @@
+hey {first_name}, thanks for grabbing that. i noticed you {detail}, what were you hoping it would answer? if youre just poking around," that's great too, but if youre exploring for {company} use case, i'd love to hear more, so i can point you in the right direction.

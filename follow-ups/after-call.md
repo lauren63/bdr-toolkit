@@ -1,0 +1,1 @@
+{first_name}, thanks for the time today. i know you mentioned you {detail}. i'm going to look into that before we talk again. and if anything shifts at {company} between now and then, send it my way. love to stay in touch, either way.
