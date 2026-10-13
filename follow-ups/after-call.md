@@ -1,1 +1,1 @@
-{first_name}, thanks for the time today. the part that stuck with me was when you mentioned you {detail}. i'm going to sit with that before we talk again. in the meantime, is there anyone else at {company} who feels that pain more than you do? i'd rather hear it from them than guess.
+{first_name}, thanks for the time today. the part that stuck with me was when you mentioned you {detail}. i'm going to sit with that before we talk again. if anything shifts at {company} between now and then, send it my way. i'd rather hear it from you than guess.

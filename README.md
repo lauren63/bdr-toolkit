@@ -23,7 +23,7 @@ House rules for every template: warm, human, curious-first. Lowercase is fine. N
 | Template | When to use it |
 | --- | --- |
 | [no-reply-bump.md](follow-ups/no-reply-bump.md) | First email got silence and you're bumping it a few days later. |
-| [after-call.md](follow-ups/after-call.md) | Same-day note after a discovery call, aimed at finding the next person to talk to. |
+| [after-call.md](follow-ups/after-call.md) | Same-day note after a discovery call that keeps the thread warm without asking for anything. |
 
 ## voicemails
 
