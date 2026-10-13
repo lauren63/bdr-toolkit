@@ -31,3 +31,9 @@ House rules for every template: warm, human, curious-first. Lowercase is fine. N
 | --- | --- |
 | [first-touch.md](voicemails/first-touch.md) | First cold call that hits voicemail. Pair it with an email the same day. |
 | [last-attempt.md](voicemails/last-attempt.md) | Final call in a sequence, when you're stepping back without burning the bridge. |
+
+## sequences
+
+| Template | When to use it |
+| --- | --- |
+| [cold-prospect.md](sequences/cold-prospect.md) | Seven-day cold sequence built on one idea, labeling text in SQL. Pulls in the voicemail and LinkedIn templates on days 3 and 5. |
