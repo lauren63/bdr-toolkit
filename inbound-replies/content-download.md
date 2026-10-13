@@ -1,0 +1,1 @@
+hey {first_name}, thanks for grabbing the guide. i noticed you {detail}, so i'm guessing it wasn't idle reading. what were you hoping it would answer? if the honest answer is "nothing yet, i'm poking around," that's fine by me. and if there's a real problem at {company} behind it, i'd love to hear it in your words.

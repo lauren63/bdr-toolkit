@@ -1,0 +1,1 @@
+hi {first_name}, saw you {detail}. curious how {company} is handling that on the data side. i work at motherduck and talk with a lot of teams sorting through the same thing. no pitch in this note, promise.

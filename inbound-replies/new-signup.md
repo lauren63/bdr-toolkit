@@ -1,0 +1,1 @@
+hi {first_name}, saw you spun up a motherduck account. i'm curious what pulled you in, since you {detail}. most teams at {company}'s stage find us when a query on a laptop starts taking longer than the coffee. is that close, or way off? happy to point you at whatever saves you an afternoon.

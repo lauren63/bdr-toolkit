@@ -1,0 +1,1 @@
+ah, i think it went to an old address. short version: we launched a SQL function that labels free text right inside the database. sorted 100k rows for fifty cents in our test. i reached out since you {detail}. are you running LLM calls inside SQL?
